@@ -1,4 +1,1 @@
 # sugarlabs
-Yeet
-Skeet
-Repeat
